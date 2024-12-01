@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 이숭인
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
